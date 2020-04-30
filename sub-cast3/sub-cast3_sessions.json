@@ -1,0 +1,13 @@
+{
+  "SESSION": {
+    "Description": "Session number"
+  },
+  "CONDITION": {
+    "Description": "Cast state",
+    "Levels": {
+      "pre": "Before casting",
+      "cast": "During casting",
+      "post": "After casting"
+    }
+  }
+}
