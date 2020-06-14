@@ -3,3 +3,5 @@ This experiment involved 3 participants. Participants wore a cast covering the e
 Functional data included a movement task, used to define regions of interest in the somatomotor system, and daily 30-minute resting-state scans.
 
 Two participants were also studied in a previous experiment, the Midnight Scan Club (MSC) experiment (https://openneuro.org/datasets/ds000224). sub-cast1 = sub-MSC02; sub-cast2 = sub-MSC06
+
+Sessions are grouped into 5 conditions. 3 conditions (pre, cast, post) correspond to the original experiment. 2 conditions (on, off) correspond to a control experiment in which participants wore a removable cast during scanning (on sessions) but were not casted during daily life.
