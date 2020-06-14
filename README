@@ -5,3 +5,5 @@ Functional data included a movement task, used to define regions of interest in 
 Two participants were also studied in a previous experiment, the Midnight Scan Club (MSC) experiment (https://openneuro.org/datasets/ds000224). sub-cast1 = sub-MSC02; sub-cast2 = sub-MSC06
 
 Sessions are grouped into 5 conditions. 3 conditions (pre, cast, post) correspond to the original experiment. 2 conditions (on, off) correspond to a control experiment in which participants wore a removable cast during scanning (on sessions) but were not casted during daily life.
+
+Surface parcellations for sub-cast3 were created using methods described in Gordon et al, Neuron (2017). Corresponding parcellations for sub-cast1 and sub-cast2 can be found in the MSC dataset (https://openneuro.org/datasets/ds000224): derivatives > surface_pipeline > {subject} > surface_parcellation
