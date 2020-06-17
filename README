@@ -8,6 +8,10 @@ Sessions are grouped into 5 conditions. 3 conditions (pre, cast, post) correspon
 
 Two participants were also studied in a previous experiment, the Midnight Scan Club (MSC) experiment (Gordon et al, 2017, https://openneuro.org/datasets/ds000224). sub-cast1 = sub-MSC02; sub-cast2 = sub-MSC06. We applied many of the methods from the MSC experiment in the current study.
 
+MSC participants were scanned using a 3T Siemens Trio MRI scanner.  BOLD data were acquired at a spatial resolution of 4mm, single-band, with a TR of 2.2s. We used identical sequences for sub-cast1 during the original cast experiment (but not during the later control experiment).
+
+sub-cast2 and sub-cast3 were scanned on a 3T Siemens Prisma MRI scanner using updated sequences. The updated scanner and sequences were also appleid to sub-cast1 during the control experiment. BOLD data for these scans were acquired at a spatial resolution 2.4mm, multi-band 4, with a TR of 1.1s.
+
 Surface parcellations for sub-cast3 were created using methods described by Gordon et al (2017). Corresponding parcellations for sub-cast1 and sub-cast2 can be found in the MSC dataset (https://openneuro.org/datasets/ds000224): derivatives > surface_pipeline > {subject} > surface_parcellation.
 
 Surface projection files for sub-cast1 can be found in the MSC dataset (https://openneuro.org/datasets/ds000224): derivatives > surface_pipeline > sub-MSC02 > fs_LR_Talairach.
