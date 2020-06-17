@@ -7,7 +7,9 @@
     "Levels": {
       "pre": "Before casting",
       "cast": "During casting",
-      "post": "After casting"
+      "post": "After casting",
+      "on": "Control experiment: cast on",
+      "off": "Control experiment: cast off"
     }
   }
 }
