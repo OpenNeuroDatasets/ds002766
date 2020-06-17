@@ -1,13 +1,13 @@
 Details of this dataset are described in Newbold et al., Plasticity and Spontaneous Activity Pulses in Disused Human Brain Circuits, Neuron (2020), https://doi.org/10.1016/j.neuron.2020.05.007. This manuscript should be cited whenever publishing work using this dataset.
 
-This experiment involved 3 participants. Participants wore a cast covering the entire right upper extremity for two weeks and underwent daily MRI scans.
+Three healthy adult participants wore a cast covering the entire right upper extremity for two weeks. They were scanned every day for 6-9 weeks. Scans included 42-64 daily 30-minute resting-state functional MRI scans before, during and after casting. Participants later underwent additional scanning as part of a control experiment. In all, we collected 27-43 hours of resting-state functional MRI data in each individual.
 
-Functional data included a movement task, used to define regions of interest in the somatomotor system, and daily 30-minute resting-state scans.
-
-Two participants were also studied in a previous experiment, the Midnight Scan Club (MSC) experiment (https://openneuro.org/datasets/ds000224). sub-cast1 = sub-MSC02; sub-cast2 = sub-MSC06
+Participants also performed a block-design movement task (right hand, left hand, right foot, left foot, tongue) for 8 minutes each night prior to casting.
 
 Sessions are grouped into 5 conditions. 3 conditions (pre, cast, post) correspond to the original experiment. 2 conditions (on, off) correspond to a control experiment in which participants wore a removable cast during scanning (on sessions) but were not casted during daily life.
 
-Surface parcellations for sub-cast3 were created using methods described in Gordon et al, Neuron (2017). Corresponding parcellations for sub-cast1 and sub-cast2 can be found in the MSC dataset (https://openneuro.org/datasets/ds000224): derivatives > surface_pipeline > {subject} > surface_parcellation.
+Two participants were also studied in a previous experiment, the Midnight Scan Club (MSC) experiment (Gordon et al, 2017, https://openneuro.org/datasets/ds000224). sub-cast1 = sub-MSC02; sub-cast2 = sub-MSC06. We applied many of the methods from the MSC experiment in the current study.
+
+Surface parcellations for sub-cast3 were created using methods described by Gordon et al (2017). Corresponding parcellations for sub-cast1 and sub-cast2 can be found in the MSC dataset (https://openneuro.org/datasets/ds000224): derivatives > surface_pipeline > {subject} > surface_parcellation.
 
 Surface projection files for sub-cast1 can be found in the MSC dataset (https://openneuro.org/datasets/ds000224): derivatives > surface_pipeline > sub-MSC02 > fs_LR_Talairach.
